@@ -8,7 +8,7 @@ To run Predicate you will need [Node.js](https://nodejs.org/en/) and [LaTex](htt
 ## Cloning and Running
 ```bash
 # Clone the repository
-git clone https://https://github.com/giorgio19/Predicate.git
+git clone https://github.com/cupp/Predicate.git
 # Go into the repository
 cd Predicate
 # Install dependencies
